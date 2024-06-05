@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamelTaha2001
-- 👀 I’m interested in Coding and Game Development
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m interested in Java, Kotlin, Android, Flutter, Spring, and Game Development
+- 🌱 I’m currently work as an Android Developer at Leading Point Software
 - 📫 How to reach me: kameltaha2001@gmail.com
 
 <!---
